@@ -1,4 +1,5 @@
 * linguist-vendored
+*.java binary
 *.java linguist-detectable=true
 *.html linguist-detectable=false
 *.xhtml linguist-detectable=false
